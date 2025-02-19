@@ -35,3 +35,7 @@
 
   These are some important insights which i mentioned  there are also many other insights I discovered in this project.
 * Overall this project provided valuable insights into hotel booking patterns. However, we faced challenges like handling duplicate and missing data and selecting effective visualizations. Despite this, our findings can help improve booking efficiency and customer satisfaction.
+
+# **Problem Statement**
+  
+The hospitality industry faces challenges in understanding customer booking behavior, predicting guest preferences, and optimizing hotel offerings to improve business efficiency. This project aims to analyze hotel booking data to uncover key trends, identify factors affecting cancellations, and explore patterns in customer preferences.  
