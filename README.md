@@ -78,3 +78,5 @@ The business objective of this project is to analyze hotel booking patterns to i
 *  The most common stay duration is 3 nights, followed by 2, 1, and 4 nights, while stays longer than 7 nights are rare.
 * A longer waiting period does not lead to booking cancellations.
 * Higher lead time increases the chances of booking cancellations
+# Author
+* Vimal Solanki
