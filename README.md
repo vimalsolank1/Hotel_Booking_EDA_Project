@@ -39,7 +39,7 @@
 # **Problem Statement**
   
  The hospitality industry faces challenges in understanding customer booking behavior, predicting guest preferences, and optimizing hotel offerings to improve business efficiency. This project aims to analyze hotel booking data to uncover key trends, identify factors affecting cancellations, and explore patterns in customer preferences.  
-# **Business Objective?**
+# **Business Objective**
  The business objective of this project is to analyze hotel booking patterns to improve booking efficiency,finding factor affecting cancellation, predict guest preferences, and optimize hotel offerings
 
 # **Solution to Business Objective**
